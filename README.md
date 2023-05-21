@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 🌟 AI/ML & Web Dev Learner | Curious Problem-Solver | Let's Connect and Code! 💻✨
 
-[![Followers](https://img.shields.io/github/followers/NeeleshVashist?style=social)](https://github.com/NeeleshVashist) <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/neelesh_vashist?style=social)](https://twitter.com/neelesh_vashist) <br>
+<!-- [![Followers](https://img.shields.io/github/followers/NeeleshVashist?style=social)](https://github.com/NeeleshVashist) <br> -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neeleshvashist) <br>
+[![Twitter Follow](https://img.shields.io/twitter/follow/neelesh_vashist?style=social)](https://twitter.com/neelesh_vashist) <br>
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?logo=medium)](https://neeleshvashist.medium.com) <br>
 
 ## Welcome to My Journey of AI/ML and Web Development! 🚀
